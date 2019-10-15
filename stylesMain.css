@@ -1,0 +1,129 @@
+
+body {
+  background-color: #f9d5bb;
+}
+
+
+img {
+  height: 32rem;
+  width: 100%;
+  resize: both;
+}
+
+.holder1 {
+  color: #347474;
+  height: 5rem;
+}
+
+@media (max-width: 900px) {
+
+}
+.carousel-item, img {
+  height: 50rem;
+}
+#carouselExampleControls {
+  margin: 10px, 50px;
+}
+
+p {
+  font-size: 1.2rem;
+  padding-top: 0;
+  padding: 6rem;
+  font-family: 'Merriweather', serif;
+  line-height: 2.1rem;
+
+}
+
+h3 {
+  text-align: center;
+  padding: 2rem;
+  padding-bottom: 0;
+  font-family: 'Libre Baskerville', serif;
+}
+
+d {
+  padding: 2rem;
+}
+.muse {
+  width: 50%;
+  float: left;
+
+}
+
+.ren {
+  float: left;
+  image-resolution: snap;
+}
+hr {
+  border-top: 7px dotted;
+  border-bottom: none;
+  width: 30px;
+}
+.bd-example {
+  padding: 10rem;
+  padding-bottom: 5rem;
+
+
+}
+
+#wrapper {
+  text-align: center;
+}
+#piano {
+  color: black;
+}
+
+
+
+
+.divbc1 {
+  background-color: #d35656;
+  border-radius: 10%;
+  padding: 1rem;
+}
+
+.divbc2 {
+  background-color: #14868c;
+  border-radius: 10%;
+  padding: 1rem;
+}
+
+.divbc3 {
+  background-color: #1fab89;
+  border-radius: 10%;
+  padding: 1rem;
+}
+
+.divbcrock {
+  background-color: #b22222;
+  border-radius: 10%;
+  padding: 1rem;
+}
+
+.eximages {
+  border-radius: 5%;
+  transition: all 1s ease;
+}
+
+.eximages:hover {
+  transform: scale(.9);
+  opacity: .3;
+}
+#modes {
+  border-radius: 5%;
+}
+
+.carousel-control-prev {
+  margin-left: -5rem;
+  position: absolute;
+}
+
+.carousel-control-next {
+  margin-right: -5rem;
+  position: absolute;
+}
+
+h2 {
+  text-align: center;
+  padding: 2rem;
+}
